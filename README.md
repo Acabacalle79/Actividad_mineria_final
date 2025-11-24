@@ -1,9 +1,9 @@
 *INTEGRANTES*
 
-Jesus Ogliastri Reyes
-Juan Peña Mendoza 
-Emanuel Marriaga Ramos 
-Pedro Calderon Heras 
+Jesus Ogliastri Reyes,
+Juan Peña Mendoza,
+Emanuel Marriaga Ramos, 
+Pedro Calderon Heras
 
 
 
