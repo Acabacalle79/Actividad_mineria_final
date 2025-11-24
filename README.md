@@ -1,3 +1,13 @@
+*INTEGRANTES*
+
+Jesus Ogliastri Reyes
+Juan Peña Mendoza 
+Emanuel Marriaga Ramos 
+Pedro Calderon Heras 
+
+
+
+
 Link de video explicativo del código:https://youtu.be/z3ZtOkmuLyU
 
 Metodología del Proyecto — Iris Species Classification
